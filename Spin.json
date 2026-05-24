@@ -1,0 +1,13 @@
+{
+ "daily_time": 4,
+        "items": [
+            { "name": "Coin", "Count": 50, "weight":60 },
+            { "name": "BreakBoard", "Count": 2, "weight": 10 },
+            { "name": "Coin", "Count": 80, "weight": 20 },
+            { "name": "Clear", "Count": 2, "weight": 10 },
+            { "name": "Coin", "Count": 160, "weight": 10 },
+            { "name": "AddHole", "Count": 2, "weight": 10 },
+            { "name": "Coin", "Count": 500, "weight": 5 },
+            { "name": "Zuan", "Count": 5, "weight":10 }
+        ]
+}
